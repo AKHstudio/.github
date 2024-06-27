@@ -1,4 +1,5 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-BE-yellow)](https://www.minecraft.net/ja-jp/about-minecraft)
+[![CRAFTERS COLONY](https://img.shields.io/badge/Minecraft-CRAFTERSCOLONY-yellow)](https://minecraft-mcworld.com/)
 
 [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![TypeScript](https://shields.io/badge/TypeScript-007ACC?logo=TypeScript&logoColor=fff&style=flat-square)](https://www.typescriptlang.org/)
